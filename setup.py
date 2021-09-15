@@ -13,7 +13,7 @@ setup(
   install_requires=[            # I get to this in a second
       ],
   classifiers=[
-    'Development Status :: 2 - Placeholder',      # Chose either "2 - Placeholder, 3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
+    'Development Status :: 1 - Planning',      # Chose either "1 - Planning, 2 - Pre-Alpha, 3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
     'Intended Audience :: Developers',      # Define that your audience are developers
     'Topic :: Software Development :: Build Tools',
     'License :: OSI Approved :: MIT License',   # Again, pick a license
