@@ -1,3 +1,3 @@
-# ossy
+# sossy
 
-Ossy detects "risky" Python PyPi packages in your software supply chain
+Sossy detects "risky" Python PyPi packages in your software supply chain
