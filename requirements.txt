@@ -1,0 +1,6 @@
+requests
+python_dateutil
+pyyaml
+requests
+configparser
+pipreqs
