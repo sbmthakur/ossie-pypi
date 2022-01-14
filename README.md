@@ -5,7 +5,7 @@ software supply chain.
 
 # Background
 
-Ossie has been developed by cybersecurity researchers at [Ossilalte Inc.](https://ossillate.com)
+Ossie has been developed by cybersecurity researchers at [Ossillate Inc.](https://ossillate.com)
 to assist developers when sourcing untrusted third-party open-source software dependencies.
 
 # How it works
