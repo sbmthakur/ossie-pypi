@@ -61,6 +61,10 @@ def audit_request(creds, auth, env, args):
 		project_checker = CheckProject(args['project'], auth=auth, creds=creds)
 		return project_checker.run()
 
+	elif args['depalert']:
+		print("Risks customized to your threat model")
+
+
 def cleanup(env, auth, creds):
 	if env == "CICD":
 		creds.delete_cred('token')
